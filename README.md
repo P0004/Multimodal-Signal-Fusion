@@ -1,2 +1,2 @@
-# Multimodal-Signal-Fusion
-Multimodal Signal Fusion for Enhanced Blood Pressure Prediction Framework
+# Multimodal Signal Fusion for Cuffless Blood Pressure Estimation
+Multimodal Signal Fusion for Cuffless Blood Pressure Estimation Framework
